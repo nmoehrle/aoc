@@ -1,0 +1,7 @@
+[package]
+name = "part1"
+version = "0.1.0"
+authors = ["Nils Moehrle <nils@kuenstle-moehrle.de>"]
+
+[dependencies]
+regex = "0.1"
